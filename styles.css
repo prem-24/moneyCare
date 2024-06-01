@@ -1,0 +1,45 @@
+.brand-logo {
+  padding-top: 2px !important;
+  display: flex !important;
+  align-items: center !important;
+  height: 100%;
+}
+.btn {
+  background-color: rgb(20, 104, 78);
+}
+.btn:hover {
+  background-color: #14684e;
+}
+.btn:active {
+  background-color: rgb(20, 104, 78);
+}
+.form-cont {
+  padding-top: 20px;
+}
+.card-title {
+  font-size: 24px !important;
+  font-weight: 500 !important;
+}
+.card-title {
+  color: #14684e;
+}
+input::placeholder {
+  color: #485551;
+}
+.collection .collection-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.total-money {
+  font-size: 24px !important;
+  font-weight: 500 !important;
+  color: #485551;
+}
+.input-field {
+  width: 50%;
+  margin: 0 auto; /* Center the input field */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
